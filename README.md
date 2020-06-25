@@ -40,7 +40,7 @@ $ yarn install or npm install
 
 # Run start and enjoy
 
-$ yarn start or npm start
+$ yarn dev:server or npm run dev:server
 
 # For test
 
