@@ -1,8 +1,7 @@
 <h1  align="center">GoStack TypeScript + Node.js Challenge #04</h1>
 <img  src="https://res.cloudinary.com/luisotavio756/image/upload/v1592267094/60937329-69836380-a2a6-11e9-910b-759f9f1d26a7_mqbbok.png" />
 <div align="center">
-	<img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_300/v1593046204/Untitled_nlphkc.png" />
-	<img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_300/v1593046201/Untitled_1_qyznk5.png" />
+	<img src="https://res.cloudinary.com/luisotavio756/image/upload/v1593046204/Untitled_nlphkc.png" />
 </div>
 <h4 align="center">A challenge for from Bootcamp GoStack of the Rockeseat</h4>
 <p align="center">
